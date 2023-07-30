@@ -1,0 +1,4 @@
+package permnutation
+
+class java {
+}
