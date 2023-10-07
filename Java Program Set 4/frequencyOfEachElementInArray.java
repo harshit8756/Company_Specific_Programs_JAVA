@@ -1,7 +1,7 @@
 public class frequencyOfEachElementInArray {
     public static void main(String[] args) {
         int[] arr = {2,4,6,2,6,6,3,4};
-        // initialize visited array to store the frequency of the element whicha are present in array arr[]
+        // initialize visited array to store the frequency of the element which are present in array arr[]
         int[] visitedArray = new int[arr.length];
 
         int visited = -1; // it gives false statement where they visited on the same element in array arr[]
